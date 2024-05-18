@@ -98,21 +98,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Depth Anything: [Depth Anything GitHub Repository](https://github.com/isl-org/DPT)
 ```
 
-### Additional Steps for GitHub
 
-After updating the `README.md` file, follow these steps to push your changes to GitHub:
-
-1. **Add the updated README.md file to the staging area**:
-   ```bash
-   git add README.md
-   ```
-2. **Commit your changes**:
-   ```bash
-   git commit -m "Added complete README.md with demo test instructions and requirements"
-   ```
-3. **Push your changes to GitHub**:
-   ```bash
-   git push origin main
-   ```
-
-This will update your project repository on GitHub with the complete `README.md` file, providing all necessary instructions and information.
