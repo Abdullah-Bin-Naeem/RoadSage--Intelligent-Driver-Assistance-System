@@ -41,7 +41,7 @@ Two depth estimation models were evaluated:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/RoadSage.git
-   cd RoadSage
+   cd RoadSage--Intelligent-Driver-Assistance-System
    ```
 2. Install the required dependencies:
    ```bash
