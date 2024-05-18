@@ -40,7 +40,7 @@ Two depth estimation models were evaluated:
    
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/RoadSage.git
+   git clone https://github.com/Grifind0r/RoadSage--Intelligent-Driver-Assistance-System.git
    cd RoadSage--Intelligent-Driver-Assistance-System
    ```
 2. Install the required dependencies:
@@ -77,9 +77,7 @@ python tools/demo.py --source 0
 ```
 
 ## File Structure
-
-- `main.py`: Main script to run RoadSage.
-- `depths.py`: Contains the depth estimation models and related code.
+- `tools/depths.py`: Contains the depth estimation models and related code.
 - `tools/demo.py`: Script to run the demo tests.
 - `README.md`: Project documentation.
 
